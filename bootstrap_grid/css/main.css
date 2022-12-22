@@ -1,0 +1,156 @@
+.test {
+    width: 100%;
+
+}
+
+.header {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-top: 20px;
+
+}
+
+.navbar {
+    display:block;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar li {
+    list-style: none;
+    display: inline;
+    border-right: 1px solid whitesmoke;
+    background-color: black;
+    padding: 5px;
+    font-size: 14pt;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar li:last-child {
+    border-right: none;
+}
+
+.navbar {
+    background-color: black;
+    width: 100%;
+}
+
+.establishment {
+    color: whitesmoke;
+}
+
+
+a { 
+    text-decoration: none;
+    color: white;
+
+}
+
+.banner {
+    position:relative;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+
+.home-title {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    top: 40%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 80pt;
+    
+}
+
+.date h2 {
+    border: 1pt solid black;
+    background-color: #eee;
+    font-family: 'Roboto', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+
+.date {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+}
+
+.showtime{
+    border: 1pt solid darkgray;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    padding-bottom: 20px;
+    max-width: 1200px;
+}
+
+
+.read-more {
+        display:flex;
+        align-self: center;
+        width:120px;
+        height:30px;
+        background-color: goldenrod;
+        border:1px solid black;
+        color: white;
+        font-weight: bold;
+        font-family: 'Roboto', sans-serif;
+        margin-left: 15%;
+}
+
+.description {
+    margin-left: 20%;
+}
+
+.picture {
+    padding-left: 5%;
+}
+
+.footing {
+    background-color: black;
+    color: white;
+
+}
+
+.info {
+    padding-left: 5%;
+    padding-top: 2%;
+}
+
+.chicago-map {
+    padding-left: 5%;
+    height: 80%;
+    margin-top: 1.5%;
+}
+
+.mission-body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.mission-body h1 {
+    font-weight: bold;
+    color: darkblue;
+
+}
+
+.mission-body p {
+    font-size: 18pt;
+}
+
+.info a {
+    margin: 1em 0px;
+}
